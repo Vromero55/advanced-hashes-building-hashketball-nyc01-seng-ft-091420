@@ -1,12 +1,29 @@
 game_hash={
   :home={
-    :team_name=>""
+    :team_name=>"Brooklyn Nets"
     :colors=>[]
-    :players=>[{}]
-  }
+    :players=>[{:player_name=>},
+      {:number=>},
+      {:shoe=>},
+      {:points=>},
+      {:rebounds=>},
+      {:assists=>},
+      {:steals=>},
+      {:bloack=>},
+      {:slam_dunks=>}]
+    }
   :away={
     :team_name=>""
     :colors=>[]
-    :players=>[{}]
+    :players=>[
+      {:player_name=>},
+      {:number=>},
+      {:shoe=>},
+      {:points=>},
+      {:rebounds=>},
+      {:assists=>},
+      {:steals=>},
+      {:blocks=>},
+      {:slam_dunks=>}]
   }
 }
