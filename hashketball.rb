@@ -1,6 +1,6 @@
 game_hash={
   :home=>{
-    :team_name=>"Brooklyn Nets"
+    :team_name=>"Brooklyn Nets",
     :colors=>["Black", "White"]
     :players=>[
      {:player_name=>"Alan Anderson",
