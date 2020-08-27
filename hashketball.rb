@@ -100,6 +100,6 @@ game_hash={
       :slam_dunks=>12}]
   }
 }
-game_hash(hash)
+def game_hash(hash)
 game_hash
 end
