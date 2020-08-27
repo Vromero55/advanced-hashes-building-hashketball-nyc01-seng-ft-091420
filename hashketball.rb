@@ -103,4 +103,3 @@ game_hash={
 game_hash(hash)
 game_hash
 end
-
