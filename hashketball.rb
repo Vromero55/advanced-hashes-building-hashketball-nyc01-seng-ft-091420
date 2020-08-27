@@ -102,6 +102,4 @@ name=  {:home=>{
   }
 }
 
-def game_hash(name)
-  name
 end
