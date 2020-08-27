@@ -1,7 +1,7 @@
 game_hash={
   :home=>{
     :team_name=>"Brooklyn Nets",
-    :colors=>["Black", "White"]
+    :colors=>["Black", "White"],
     :players=>[
      {:player_name=>"Alan Anderson",
       :number=>0,
@@ -50,8 +50,8 @@ game_hash={
       :slam_dunks=>1}]
     }
   :away={
-    :team_name=>"Charlotte Hornets"
-    :colors=>["Turquoise", "Purple"]
+    :team_name=>"Charlotte Hornets",
+    :colors=>["Turquoise", "Purple"],
     :players=>[
      {:player_name=>"Jeff Adrien",
       :number=>4,
